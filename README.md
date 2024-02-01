@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulina
-- 🌱 I’m a student at the University of Minnesota, majoring in Computer Science and minoring in Management with an emphasis in Information Systems
+- 🌱 I’m a student at the University of Minnesota, majoring in Computer Science and Management Information Systems
 - 📫 zhan7856@umn.edu
 
 <!---
